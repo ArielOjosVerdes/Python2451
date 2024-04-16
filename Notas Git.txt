@@ -1,0 +1,12 @@
+Notas GIT
+
+comandos
+ls
+ls -l
+ls -la	-incluye los archivos ocultos
+git init -- inicialización del repositorio
+git config --global user.name "ArielOjosVerdes"
+git config --global user.mail "mail"
+git add -- agrega uno o mas archivos al staging area
+git status -- muestra el estado del working area
+
